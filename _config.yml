@@ -1,0 +1,22 @@
+title: Nation of Positivity CDN
+author:
+  name: Christophe VG
+
+repository: christophevg/cdn.nationofpositivity
+
+markdown: kramdown
+
+kramdown:
+  auto_ids: true
+
+theme: null
+
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Makefile
+- index.py
+
+safe: true
+lsi: false

@@ -1,0 +1,15 @@
+{
+  "assets": {
+    "video": {
+      "_files": [
+        "positivity-boy-arcade.mp4"
+      ]
+    },
+    "images": {
+      "_files": [
+        "qr.svg",
+        "logo.svg"
+      ]
+    }
+  }
+}
