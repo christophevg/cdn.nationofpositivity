@@ -9,7 +9,15 @@
       "_files": [
         "qr.svg",
         "logo.svg"
-      ]
+      ],
+      "products": {
+        "love-starts-here": {
+          "_files": [
+            "banner.png",
+            "full.png"
+          ]
+        }
+      }
     }
   }
 }
