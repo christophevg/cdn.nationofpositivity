@@ -11,6 +11,41 @@
         "logo.svg"
       ],
       "products": {
+        "holidays-are-coming": {
+          "_files": [
+            "collection.jpeg"
+          ],
+          "ball-with-picture": {
+            "_files": [
+              "demo.jpeg",
+              "detail.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          },
+          "ball-with-text": {
+            "_files": [
+              "demo.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          },
+          "letter-art": {
+            "_files": [
+              "demo.jpeg",
+              "detail.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          },
+          "ball-with-logo": {
+            "_files": [
+              "demo.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          }
+        },
         "love-starts-here": {
           "_files": [
             "banner.png",
