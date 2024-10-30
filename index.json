@@ -7,6 +7,7 @@
     },
     "images": {
       "_files": [
+        "logo.png",
         "qr.svg",
         "logo.svg"
       ],
