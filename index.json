@@ -53,6 +53,13 @@
             "full.png"
           ]
         }
+      },
+      "socials": {
+        "_files": [
+          "positivity-boy-arcade-banner-1128x191.png",
+          "positivity-boy-arcade-1440x800.png",
+          "positivity-boy-arcade-logo-1200x630.png"
+        ]
       }
     }
   }
