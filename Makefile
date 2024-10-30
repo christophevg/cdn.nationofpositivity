@@ -11,5 +11,5 @@ clean:
 update:
 	bundle update
 
-serve: update
+serve: update index.json
 	bundle exec jekyll serve
