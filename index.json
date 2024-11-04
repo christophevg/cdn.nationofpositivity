@@ -14,9 +14,27 @@
       "products": {
         "holidays-are-coming": {
           "_files": [
-            "collection.jpeg"
+            "collection.jpeg",
+            "designs.jpeg"
           ],
           "ball-with-picture": {
+            "_files": [
+              "demo.jpeg",
+              "detail.jpeg",
+              "product.jpeg",
+              "design.jpeg",
+              "packaging.jpeg"
+            ]
+          },
+          "garland-with-text": {
+            "_files": [
+              "demo.jpeg",
+              "detail.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          },
+          "garland-with-logo": {
             "_files": [
               "demo.jpeg",
               "detail.jpeg",
@@ -28,6 +46,7 @@
             "_files": [
               "demo.jpeg",
               "product.jpeg",
+              "design.jpeg",
               "packaging.jpeg"
             ]
           },
@@ -39,10 +58,19 @@
               "packaging.jpeg"
             ]
           },
+          "garland-with-picture": {
+            "_files": [
+              "demo.jpeg",
+              "detail.jpeg",
+              "product.jpeg",
+              "packaging.jpeg"
+            ]
+          },
           "ball-with-logo": {
             "_files": [
               "demo.jpeg",
               "product.jpeg",
+              "design.jpeg",
               "packaging.jpeg"
             ]
           }
