@@ -19,6 +19,7 @@
           ],
           "ball-with-picture": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
@@ -28,6 +29,7 @@
           },
           "garland-with-text": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
@@ -39,11 +41,13 @@
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
-              "packaging.jpeg"
+              "packaging.jpeg",
+              "demo-header.jpeg"
             ]
           },
           "ball-with-text": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "product.jpeg",
               "design.jpeg",
@@ -52,6 +56,7 @@
           },
           "letter-art": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
@@ -60,6 +65,7 @@
           },
           "garland-with-picture": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
@@ -68,6 +74,7 @@
           },
           "ball-with-logo": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "product.jpeg",
               "design.jpeg",
