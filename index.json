@@ -38,11 +38,11 @@
           },
           "garland-with-logo": {
             "_files": [
+              "demo.header.jpeg",
               "demo.jpeg",
               "detail.jpeg",
               "product.jpeg",
-              "packaging.jpeg",
-              "demo-header.jpeg"
+              "packaging.jpeg"
             ]
           },
           "ball-with-text": {
