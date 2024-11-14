@@ -12,6 +12,33 @@
         "logo.svg"
       ],
       "products": {
+        "rock-around-the-clock": {
+          "_files": [
+            "collection.jpeg"
+          ],
+          "record-clock-with-logo": {
+            "_files": [
+              "demo.header.jpeg",
+              "demo.jpeg"
+            ]
+          },
+          "record-clock": {
+            "_files": [
+              "demo.header.jpeg",
+              "demo.jpeg"
+            ]
+          },
+          "record-clock-with-picture": {
+            "_files": [
+              "demo-peter.header.jpeg",
+              "demo-run.jpeg",
+              "demo-run.header.jpeg",
+              "demo-rockstar.jpeg",
+              "demo-peter.jpeg",
+              "demo-rockstar.header.jpeg"
+            ]
+          }
+        },
         "holidays-are-coming": {
           "_files": [
             "collection.jpeg",
