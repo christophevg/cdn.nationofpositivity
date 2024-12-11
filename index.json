@@ -74,6 +74,7 @@
           },
           "ball-with-text": {
             "_files": [
+              "design-landscape.jpeg",
               "demo.header.jpeg",
               "demo.jpeg",
               "product.jpeg",
@@ -115,6 +116,14 @@
             "full.png"
           ]
         }
+      },
+      "styles": {
+        "_files": [
+          "fun.png",
+          "playfull.png",
+          "stylish.png",
+          "index.json"
+        ]
       },
       "socials": {
         "_files": [
