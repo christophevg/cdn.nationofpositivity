@@ -117,6 +117,43 @@
             "banner.png",
             "full.png"
           ]
+        },
+        "wood-words": {
+          "_files": [
+            "collection.jpeg"
+          ],
+          "words-with-logo": {
+            "_files": [
+              "product.jpeg",
+              "product.header.jpeg",
+              "2d.jpeg",
+              "3d.jpeg"
+            ]
+          },
+          "words-with-picture": {
+            "_files": [
+              "product.jpeg",
+              "product.header.jpeg",
+              "2d.jpeg",
+              "3d.jpeg"
+            ]
+          },
+          "words-with-text": {
+            "_files": [
+              "numbers-product.jpeg",
+              "numbers-3d.jpeg",
+              "designs.header.jpeg",
+              "numbers-2d.jpeg",
+              "newborn-product.jpeg",
+              "newborn-3d-only.jpeg",
+              "newborn-2d.jpeg",
+              "house-product.jpeg",
+              "house-2d.jpeg",
+              "designs.jpeg",
+              "newborn-3d.jpeg",
+              "house-3d.jpeg"
+            ]
+          }
         }
       },
       "styles": {
